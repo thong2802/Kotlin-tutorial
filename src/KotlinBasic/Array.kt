@@ -1,5 +1,0 @@
-package KotlinBasic
-
-fun main() {
-
-}
